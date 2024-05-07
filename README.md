@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Rayza Virginia 👋
 
-- 🔭 Me formando em Full Stack Developer
-- 🌱 Estudando Typescript
+- 🔭 Full Stack Developer
 - 👯 Estou procurando estágio na área
 - 😄 Pronomes: ela/dela
 
